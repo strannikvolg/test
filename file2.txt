@@ -1,2 +1,2 @@
 good day
-some other line
+some other line from user2
